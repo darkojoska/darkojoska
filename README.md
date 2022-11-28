@@ -1,20 +1,3 @@
-<h1 align="center">Hello 👋, I'm Darko Joška</h1>
-<h3 align="center">A passionate frontend developer from Montenegro</h3>
-
-- 🔭 I’m currently working on [Cuckoo Workout](https://cuckoo.fi/en/)
-
-- 🌱 I’m currently learning **PWAs, React testing, JavaScript continuously :)**
-
-- 👯 I’m looking to collaborate on **React & React Native projects**
-
-- 💬 Ask me about **anything you think I can have a useful answer to 8)**
-
-- 📫 How to reach me **darkojoska@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/darkojoska/](https://www.linkedin.com/in/darkojoska/)
-
-- ⚡ Fun fact **My beautiful country has a population of only 650 000 people**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/darkojoska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darkojoska" height="30" width="40" /></a>
